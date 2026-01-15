@@ -62,4 +62,4 @@ Michael Ngugi
 Data Science Student | Aspiring Data Analyst  
 LinkedIn: www.linkedin.com/in/michael-ngugi-447b33343 
 
-GitHub: [Your GitHub Repo URL]
+GitHub: https://github.com/michaelngugi210/Retail-Market---Location-Based-Business-Analysis.git
